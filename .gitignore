@@ -1,0 +1,17 @@
+# Global
+.env
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+.mypy_cache/
+*.egg-info/
+__pycache__/
+*.pyc
+*.h5
+*.pt
+*.model
+.pytest_cache/
+*.csv
+*.jpg
+*.zip
